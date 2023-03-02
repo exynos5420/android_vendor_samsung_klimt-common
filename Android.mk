@@ -4,6 +4,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifneq ($(filter klimtlte klimtltecan klimttd klimtwifi,$(TARGET_DEVICE)),)
+ifneq ($(filter klimtlte klimtltecan klimtwifi,$(TARGET_DEVICE)),)
 
 endif
